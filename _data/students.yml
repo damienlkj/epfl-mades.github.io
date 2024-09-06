@@ -52,3 +52,14 @@
   twitter:
   description: Abdullah is pursuing his Master's degree in Materials Science and Engineering at EPFL. His research focuses on the first-principles study of the thermodynamic and vibrational properties of metallic alloys.
   pubmed_name:
+
+- name: Damien Lee Khai Jie
+  image: team_damien.jpg
+  altimage:
+  position: Doctoral Assistant
+  email: damien.lee (at) epfl.ch
+  website:
+  scholar: iBsWaBwAAAAJ
+  twitter:
+  description: Damien received his Bachelor's in Chemical Engineering and Master's in Materials Science and Engineering from the National University of Singapore. He is currently pursuing his PhD in the MADES laboratory, focusing on the development of high-fidelity machine learning models to predict the thermodynamic and kinetic properties of multicomponent systems.
+  orcid: orcid.org/0009-0006-1100-6477
